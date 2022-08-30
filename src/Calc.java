@@ -8,9 +8,11 @@ public class Calc {
         return x-y;
     }
     //dev
-
+    public double dev(double x , double y) {
+        return x / y;
+    }
     //mul
-    public int mul(int x , int y) {
+    public int mul (int x, int y){
         return x*y;
     }
 

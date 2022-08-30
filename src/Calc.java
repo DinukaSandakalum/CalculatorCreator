@@ -8,5 +8,8 @@ public class Calc {
     //dev
 
     //mul
+    public int mul (int x, int y){
+        return x*y;
+    }
 
 }

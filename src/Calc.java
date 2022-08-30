@@ -12,5 +12,8 @@ public class Calc {
         return x / y;
     }
     //mul
+    public int mul (int x, int y){
+        return x*y;
+    }
 
 }

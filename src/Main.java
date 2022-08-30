@@ -8,6 +8,6 @@ public class Main {
         System.out.println(calc.mul(10,5));
         System.out.println(calc.sub(10,5));
         System.out.println(calc.dev(10,5));
-
+        System.out.print(calc.module(12,5));
     }
 }
